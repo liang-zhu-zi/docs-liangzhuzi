@@ -1,3 +1,4 @@
-# Documents Summary of Liang Zhuzi
-A parent project of all documents for readthedocs.
+# Docs of Liang Zhuzi
+
+A parent project of Liang Zhuzi's documents for readthedocs.
 

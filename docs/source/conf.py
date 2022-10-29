@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Documents-Summary-Of-LiangZhuzi'
+project = 'Docs-Of-LiangZhuzi'
 copyright = '2022, Liang Zhuzi'
 author = 'Liang Zhuzi'
 
