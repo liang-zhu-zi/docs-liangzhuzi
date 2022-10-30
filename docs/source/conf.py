@@ -6,13 +6,13 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Docs-Of-LiangZhuzi'
+project = '文档列表'
 copyright = '2022, Liang Zhuzi'
 author = 'Liang Zhuzi'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
-version = '0.1.0'	# //from template
+version = '0.1'	# '0.1.0' //from template
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
